@@ -1,6 +1,6 @@
 ---
 description: >-
-  Tengo dos objetivos escribiendo estas notas, compartir conocimiento con el
+  Tengo tres objetivos escribiendo estas notas, compartir conocimiento con el
   resto de la red y dejar por escrito aquello que normalmente olvido de no
   hacerlo así. admin@castillo.com.es
 cover: >-
